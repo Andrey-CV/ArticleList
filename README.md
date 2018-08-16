@@ -5,7 +5,7 @@ Simple react app
 # Installation
 
 ```
-nmp init
+npm init
 npm start
 ```
 
